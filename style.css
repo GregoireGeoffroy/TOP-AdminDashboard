@@ -129,14 +129,7 @@ body {
     margin-bottom: 20px;
 }
 
-.announcement-card {
+.announcement-card, .trending-card {
     background-color: white;
-    padding: 20px;
-    margin-bottom: 20px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-}
-
-.trending-card {
-
+    padding: 10px;
 }
